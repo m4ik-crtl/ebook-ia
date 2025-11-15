@@ -1,0 +1,21 @@
+Preciso de um e-book completo sendo:
+
+Tema: Aplicando o Liquid Glass
+
+
+
+Capa
+
+Capítulos (até 5)
+
+Introdução
+
+Uma imagem para diferenciar cada capítulo
+
+Capítulos
+
+Agradecimento
+
+
+
+Preciso que seja um e-book que ensine e explique como fazer do 0 no FrontEnd, enviar exemplos de código
